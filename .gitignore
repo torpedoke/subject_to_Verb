@@ -1,0 +1,8 @@
+# Rust / Cargo 编译产物，绝不提交
+/target
+
+# IDE 配置（RustRover / IntelliJ 系列）
+.idea
+
+# 备份文件
+*.bak
